@@ -1,0 +1,2 @@
+# metadata
+putinpunny memecoin information
