@@ -1,0 +1,10 @@
+{
+    "name": "PutinPunny",
+    "symbol": "PUP",
+    "description": "A memecoin inspired by global events and Vladimir Putin.",
+    "image": "https://github.com/elkhalilc/repository/putincoin.png",
+    "attributes": [
+        { "trait_type": "Category", "value": "Meme" },
+        { "trait_type": "Theme", "value": "Geopolitics" }
+    ]
+}
